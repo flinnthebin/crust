@@ -1,2 +1,2 @@
 # crust
-an rusty OS
+a rusty OS
